@@ -1,1 +1,1 @@
-"# Malaria-Detection-G1B-DLSpring2020" 
+# Malaria Detection and Classification
